@@ -32689,6 +32689,44 @@
                 "apps.tasks"
               ]
             }
+          },
+          {
+            "uuid": "XgbuVEXBU6gtSKdbTYR1Zbbby1i4",
+            "from": "custom-db",
+            "password": "client",
+            "role": "client",
+            "data": {
+              "displayName": "Abdul Client",
+              "photoURL": "assets/images/avatars/Arnold.jpg",
+              "email": "client@fusetheme.com",
+              "settings": {
+                "layout": {
+                  "style": "layout3",
+                  "config": {
+                    "mode": "boxed",
+                    "scroll": "content",
+                    "navbar": {
+                      "display": true
+                    },
+                    "toolbar": {
+                      "display": true,
+                      "position": "below"
+                    },
+                    "footer": {
+                      "display": true,
+                      "style": "fixed"
+                    }
+                  }
+                },
+                "customScrollbars": true,
+                "theme": {}
+              },
+              "shortcuts": [
+                "apps.mailbox",
+                "apps.contacts",
+                "apps.tasks"
+              ]
+            }
           }
         ]
       },

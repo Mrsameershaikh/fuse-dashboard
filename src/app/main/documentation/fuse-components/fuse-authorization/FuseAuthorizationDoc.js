@@ -214,7 +214,7 @@ function FuseAuthorizationDoc() {
 
       <FuseHighlight component="pre" className="language-js">
         {`
-					defaultAuth:['admin','staff','user']
+					defaultAuth:['admin','staff','user',client]
 				`}
       </FuseHighlight>
 

@@ -1039,6 +1039,21 @@ const navigationConfig = [
         url: 'auth/guest-role-example',
         icon: 'verified_user',
       },
+      {
+        id: 'auth-client-example',
+        title: 'Client: Auth protected page',
+        type: 'item',
+        url: 'auth/client-role-example',
+        icon: 'security',
+      },
+      {
+        id: 'only-client-navigation-item',
+        title: 'Nav item only for Client',
+        type: 'item',
+        auth: authRoles.client,
+        url: 'auth/client-role-example',
+        icon: 'verified_user',
+      },
     ],
   },
   {
