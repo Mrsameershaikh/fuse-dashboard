@@ -995,6 +995,14 @@ const navigationConfig = [
         icon: 'exit_to_app',
       },
       {
+        id: 'sign-out',
+        title: 'Sign out',
+        type: 'item',
+        auth: authRoles.client,
+        url: 'sign-out',
+        icon: 'exit_to_app',
+      },
+      {
         id: 'auth-admin-example',
         title: 'Admin: Auth protected page',
         type: 'item',
