@@ -7318,9 +7318,9 @@
             "uuid": "XgbuVEXBU5gtSKdbQRP1Zbbby1i1",
             "from": "custom-db",
             "password": "admin",
-            "role": "admin",
+            "role": "super admin",
             "data": {
-              "displayName": "Abbott Keitch",
+              "displayName": "Sameer Shaikh",
               "photoURL": "assets/images/avatars/brian-hughes.jpg",
               "email": "admin@fusetheme.com",
               "settings": {
@@ -32637,7 +32637,7 @@
             "password": "admin",
             "role": "admin",
             "data": {
-              "displayName": "Abbott Keitch",
+              "displayName": "Sameer Shaikh",
               "photoURL": "assets/images/avatars/brian-hughes.jpg",
               "email": "admin@fusetheme.com",
               "settings": {

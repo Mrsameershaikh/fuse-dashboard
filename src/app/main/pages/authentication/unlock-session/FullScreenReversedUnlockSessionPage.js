@@ -93,14 +93,13 @@ function FullScreenReversedUnlockSessionPage() {
 
         <div className="z-10 relative w-full max-w-2xl">
           <div className="text-7xl font-bold leading-none text-gray-100">
-            <div>Welcome to</div>
-            <div>our community</div>
+          <div>Welcome to</div>
+            <div>Palette</div>
           </div>
           <div className="mt-24 text-lg tracking-tight leading-6 text-gray-400">
-            Fuse helps developers to build organized and well coded dashboards full of beautiful and
-            rich modules. Join us and start building your application today.
+          Palette connects students – all students – with the most significant adults in their lives. Whether a school counselor, college advisor, mentor, parent, coach, pastor, teacher, employer, sibling or friend, Palette combines advising program management and student's personal networks to drive student success.
           </div>
-          <div className="flex items-center mt-32">
+          {/* <div className="flex items-center mt-32">
             <AvatarGroup
               sx={{
                 '& .MuiAvatar-root': {
@@ -117,13 +116,13 @@ function FullScreenReversedUnlockSessionPage() {
             <div className="ml-16 font-medium tracking-tight text-gray-400">
               More than 17k people joined us, it's your turn
             </div>
-          </div>
+          </div> */}
         </div>
       </Box>
 
       <Paper className="h-full sm:h-auto md:flex w-full sm:w-auto md:h-full py-32 px-16 sm:p-48 md:p-64 md:pt-96 sm:rounded-2xl md:rounded-none sm:shadow md:shadow-none rtl:border-r-1 ltr:border-l-1">
         <div className="w-full max-w-320 sm:w-320 mx-auto sm:mx-0">
-          <img className="w-48" src="assets/images/logo/logo.svg" alt="logo" />
+          <img className="w-48" src="assets/images/logo/palette.png" alt="logo" />
 
           <Typography className="mt-32 text-4xl font-extrabold tracking-tight leading-tight">
             Unlock your session

@@ -52,7 +52,7 @@ function ProfileApp() {
             </div>
 
             <div className="flex flex-col items-center lg:items-start mt-16 lg:mt-0 lg:ml-32">
-              <Typography className="text-lg font-bold leading-none">Brian Hughes</Typography>
+              <Typography className="text-lg font-bold leading-none">Sameer Shaikh</Typography>
               <Typography color="text.secondary">London, UK</Typography>
             </div>
 

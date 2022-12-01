@@ -125,10 +125,10 @@ function VisitorsOverviewWidget() {
         <div className="flex items-center justify-between mt-40 ml-40 mr-24 sm:mr-40">
           <div className="flex flex-col">
             <Typography className="mr-16 text-2xl md:text-3xl font-semibold tracking-tight leading-7">
-              Visitors Overview
+              Users Overview
             </Typography>
             <Typography className="font-medium" color="text.secondary">
-              Number of unique visitors
+              Number of unique users
             </Typography>
           </div>
           <div className="mt-12 sm:mt-0 sm:ml-8">
